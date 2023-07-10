@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **arohit0102@gmail.com**
 
-- ⚡ Fun fact **I am Barca Fan**
+- ⚡ Fun fact **I am in love with Barca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
