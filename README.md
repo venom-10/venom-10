@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **A Football app**
+- 🔭 I’m currently working on **Angular**
 
 - 🌱 I’m currently learning **Angular**
 
