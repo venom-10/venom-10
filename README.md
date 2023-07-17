@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Angular**
-
 - 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **Expressjs**
